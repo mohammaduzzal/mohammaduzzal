@@ -7,7 +7,8 @@ Hi there! 👋 I’m **Mohammad Uzzal**, a passionate **Frontend Developer** wit
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-uzzal-289a24283/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)]((https://x.com/bright0001011))  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/bright0001011)
+
 
 
 ---
